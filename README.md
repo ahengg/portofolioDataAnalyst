@@ -1,9 +1,8 @@
 # Project Title (MENU UTAMA)
 
-ini adalah brief deskripsi yang berisikan tentang penjualan e-commerce look
-<center> 
+ini adalah brief deskripsi yang berisikan tentang penjualan e-commerce look 
   <img src=https://github.com/ahengg/portofolioDataAnalyst/blob/main/123.jpeg" alt="Logo" />
-</center>
+ 
 # Table of Contents (Sub menu)
   1. Installation 
   2. Usage
