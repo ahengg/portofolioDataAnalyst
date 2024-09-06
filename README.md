@@ -1,2 +1,2 @@
-# portofolioDataAnalyst
-ini adalah repository untuk bantuNgerti :)
+# Project Title
+ini adalah brief deskripsi yang berisikan tentang penjualan e-commerce look
