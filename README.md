@@ -28,5 +28,6 @@ plt.xlabel('Bulan')
 plt.ylabel('Jumlah Customer')
 plt.title('Total Customer per Bulan')
 ```
+<img src="https://github.com/ahengg/portofolioDataAnalyst/blob/main/gambar1.png" alt="Logo" />
 
 
