@@ -2,7 +2,7 @@
 
 ini adalah brief deskripsi yang berisikan tentang penjualan e-commerce look 
 <center>
-<img src="https://github.com/ahengg/portofolioDataAnalyst/blob/main/123.jpeg" alt="Logo" />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAeydWteMBCJeaC4TLf3P7AMzhMbVef49HkA&s" alt="Logo" />
 </center>
  
 # Table of Contents (Sub menu)
