@@ -1,7 +1,9 @@
 # Project Title (MENU UTAMA)
 
 ini adalah brief deskripsi yang berisikan tentang penjualan e-commerce look
-
+<center> 
+  <img src=https://github.com/ahengg/portofolioDataAnalyst/blob/main/123.jpeg" alt="Logo" />
+</center>
 # Table of Contents (Sub menu)
   1. Installation 
   2. Usage
@@ -27,7 +29,7 @@ total_customers=df.groupby('month')['id'].nunique()
 total_customers.plot(kind='line')
 plt.xlabel('Bulan')
 plt.ylabel('Jumlah Customer')
-plt.title('Total Customer per Bulan')
+plt.title('Total Customer per Bulan') 
 ```
 <img src="https://github.com/ahengg/portofolioDataAnalyst/blob/main/gambar1.png" alt="Logo" />
 
