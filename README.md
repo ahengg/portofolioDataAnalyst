@@ -1,4 +1,5 @@
 # Project Title (MENU UTAMA)
+
 ini adalah brief deskripsi yang berisikan tentang penjualan e-commerce look
 
 # Table of Contents (Sub menu)
@@ -20,7 +21,7 @@ import pandas
 import numpy
 ```
 ## Insight
-Jumlah Customer perbulan
+### Jumlah Customer perbulan
 ``` python
 total_customers=df.groupby('month')['id'].nunique()
 total_customers.plot(kind='line')
@@ -30,4 +31,18 @@ plt.title('Total Customer per Bulan')
 ```
 <img src="https://github.com/ahengg/portofolioDataAnalyst/blob/main/gambar1.png" alt="Logo" />
 
+### Jumlah Customer perbulan
+``` python
+total_customers=df.groupby('month')['id'].nunique()
+total_customers.plot(kind='line')
+plt.xlabel('Bulan')
+plt.ylabel('Jumlah Customer')
+plt.title('Total Customer per Bulan')
+```
+<img src="https://github.com/ahengg/portofolioDataAnalyst/blob/main/gambar1.png" alt="Logo" />
 
+## Kesimpulan 
+Maka dari hasil analisa dapat disimpulkan bahwa data ini mempunyai 
+1.
+2.
+3.
